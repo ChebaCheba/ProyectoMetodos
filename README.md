@@ -7,6 +7,6 @@ GeoJSON sacado de: https://github.com/johan/world.geo.json/tree/master/countries
 
 - Descargar dataset "GlobalLandTemperaturesByCountry.csv" y ponerlo en una carpeta "TemperatureFiles" dentro de la carpeta del proyecto
 - Installar modulos de python: folium, branca. Para poder usar en JupyterNotebook
-- Comandos para instalar modules en Anaconda:
-  conda install -c conda-forge folium
+- Comandos para instalar modules en Anaconda:  
+  conda install -c conda-forge folium  
   conda install -c conda-forge branca
